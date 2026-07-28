@@ -1,1 +1,8 @@
-you are in Dev Branch
+// Your First Program
+
+class Sample{
+    public static void main(String[] args) {
+        System.out.println("GitHub"); 
+    }
+}
+
