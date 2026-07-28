@@ -2,10 +2,7 @@
 
 class Sample{
     public static void main(String[] args) {
-        System.out.println("Hellloo,world!"); 
+        System.out.println("GitHub"); 
     }
 }
-#test
-GIT
 
-you are in Dev Branch
